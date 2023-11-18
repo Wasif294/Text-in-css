@@ -1,0 +1,17 @@
+/* Existence Attribute 
+
+ h1[class]{
+    color: red;
+} 
+
+ Equality Attruibute 
+ h2[class="Hi"]{
+    color: brown;
+ }
+
+ Space Attribute 
+ h3[class~='friends']{
+    color: tomato;
+ }
+ */
+ 
